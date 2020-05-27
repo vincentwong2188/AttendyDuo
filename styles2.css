@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: grey;
+    text-align: center;
+}
+
+
+
+.flaticons{
+    display: block;
+    margin: 0 auto;
+    height : 150px;
+}
+
+.name{
+    font-size: 1.5rem;
+    }
+
+
+.information{
+    /*position: fixed;*/
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    font-size: 1rem;
+
+    font-weight: 200;
+    flex-direction: column;
+    justify-content: center;
+    padding: 3rem 3rem;
+    /*text-align: center;*/
+    color: grey;
+    background-color: white;
+   
+}
+
+h1, h2{
+    font-weight: 200;
+    margin: 0.4rem;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1rem;
+    font-weight: 200;
+    color: grey;
+    
+}
+
+.footer{
+    font-size: 1rem;
+    font-weight: 200;
+    color: grey;
+}
+
+#leftbox { 
+    float:left;  
+    width:25%; 
+    height:280px; 
+} 
+#middlebox{ 
+    float:left;  
+    width:50%; 
+    height:280px; 
+} 
+#rightbox{ 
+    float:right; 
+    width:25%; 
+    height:280px; 
+} 

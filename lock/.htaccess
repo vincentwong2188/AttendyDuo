@@ -1,0 +1,7 @@
+
+# HTID:12856526: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd3/748/12691748/public_html/lock/.htpasswd"
+Require user indeng171
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:12856526:
